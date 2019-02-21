@@ -1,0 +1,22 @@
+{
+  "main.css": "/static/css/main.7b231f05.chunk.css",
+  "main.js": "/static/js/main.9da73133.chunk.js",
+  "main.js.map": "/static/js/main.9da73133.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/css/2.79986b5d.chunk.css": "/static/css/2.79986b5d.chunk.css",
+  "static/js/2.af4df6da.chunk.js": "/static/js/2.af4df6da.chunk.js",
+  "static/js/2.af4df6da.chunk.js.map": "/static/js/2.af4df6da.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.17fe8dc77b8d75b02f0e84c428750dfc.js": "/precache-manifest.17fe8dc77b8d75b02f0e84c428750dfc.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.79986b5d.chunk.css.map": "/static/css/2.79986b5d.chunk.css.map",
+  "static/css/main.7b231f05.chunk.css.map": "/static/css/main.7b231f05.chunk.css.map",
+  "static/media/App.css": "/static/media/bg.60ae6a0d.jpg",
+  "static/media/buffalo-1.jpg": "/static/media/buffalo-1.7c66a66b.jpg",
+  "static/media/elephant-1.jpg": "/static/media/elephant-1.a7f744cf.jpg",
+  "static/media/leopard-1.jpg": "/static/media/leopard-1.ec869f48.jpg",
+  "static/media/lion-1.jpg": "/static/media/lion-1.5af7066d.jpg",
+  "static/media/logo_transparent_sm2.png": "/static/media/logo_transparent_sm2.15f6f2c8.png",
+  "static/media/rhino-1.jpg": "/static/media/rhino-1.7ea886ae.jpg"
+}
